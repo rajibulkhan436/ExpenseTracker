@@ -1,4 +1,4 @@
-# ExpenseTracker 🧿 ![]()
+# ExpenseTracker![](https://github.com/rajibulkhan436/ExpenseTracker/blob/main/screenshots/wallet.png)
 ![](https://img.shields.io/badge/ExpenseTracker-Android-green)
 
 Modern Expense Tracker is a money tracker app that keeps track of monetary activities - Income and Expenses 🗞️  built using the modern android architecture components with MVVM Architecture 🏗 adhering to solid clean architecture principles. *Made with love ❤️ by [Rajibul](https://github.com/rajibulkhan436)*
@@ -41,7 +41,6 @@ Individual Account Screen |
 You need to have [Android Studio](https://developer.android.com/studio/preview) to build this project.
 <br>
 <img src="https://github.com/rajibulkhan436/ExpenseTracker/blob/main/screenshots/android.png" height="200" alt="android-studio"/>
-
 <br>
 
 ## Contribute 🤝
